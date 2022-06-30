@@ -1,6 +1,0 @@
-created_at,actor,action,user,repo
-2022-01-27T05:14:00,lucassaldanha,pull_request.merge,lucassaldanha,hyperledger/besu-native
-2022-01-27T04:28:00,lucassaldanha,pull_request.create,lucassaldanha,hyperledger/besu-native
-2022-01-27T04:27:00,lucassaldanha,pull_request.merge,lucassaldanha,hyperledger/besu-native
-2022-01-27T04:02:00,lucassaldanha,pull_request.close,daniellehrner,hyperledger/besu-native
-2022-01-27T03:53:00,lucassaldanha,pull_request.create,lucassaldanha,hyperledger/besu-native

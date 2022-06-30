@@ -1,3 +1,0 @@
-|          created_at | actor     | action              | user      | repo             |
-| ------------------- | --------- | ------------------- | --------- | ---------------- |
-| 2022-04-27 18:47:00 | jmcpheron | pull_request.create | jmcpheron | hyperledger/besu |

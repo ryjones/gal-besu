@@ -1,3 +1,0 @@
-|          created_at | actor         | action               | user | repo             |
-| ------------------- | ------------- | -------------------- | ---- | ---------------- |
-| 2022-04-28 11:45:00 | helderjnpinto | issue_comment.update |      | hyperledger/besu |

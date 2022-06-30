@@ -1,4 +1,0 @@
-|          created_at | actor         | action                | user | repo             |
-| ------------------- | ------------- | --------------------- | ---- | ---------------- |
-| 2022-02-09 07:50:00 | PriyatamNayak | issue_comment.update  |      | hyperledger/besu |
-| 2022-02-05 03:17:00 | PriyatamNayak | issue_comment.destroy |      | hyperledger/besu |

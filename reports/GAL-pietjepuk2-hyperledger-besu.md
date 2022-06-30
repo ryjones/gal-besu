@@ -1,3 +1,0 @@
-|          created_at | actor      | action              | user       | repo             |
-| ------------------- | ---------- | ------------------- | ---------- | ---------------- |
-| 2022-05-10 08:22:00 | pietjepuk2 | pull_request.create | pietjepuk2 | hyperledger/besu |

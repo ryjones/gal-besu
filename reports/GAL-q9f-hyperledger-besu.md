@@ -1,3 +1,0 @@
-|          created_at | actor | action              | user | repo             |
-| ------------------- | ----- | ------------------- | ---- | ---------------- |
-| 2022-05-18 14:50:00 | q9f   | pull_request.create | q9f  | hyperledger/besu |

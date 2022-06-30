@@ -1,3 +1,0 @@
-|          created_at | actor      | action              | user       | repo             |
-| ------------------- | ---------- | ------------------- | ---------- | ---------------- |
-| 2022-06-27 01:16:00 | gfukushima | pull_request.create | gfukushima | hyperledger/besu |

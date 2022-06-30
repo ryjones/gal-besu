@@ -1,5 +1,0 @@
-|          created_at | actor          | action                             | user           | repo                  |
-| ------------------- | -------------- | ---------------------------------- | -------------- | --------------------- |
-| 2022-01-18 01:29:00 | frankisawesome | pull_request.merge                 | frankisawesome | hyperledger/besu-docs |
-| 2022-01-17 06:15:00 | frankisawesome | pull_request.create_review_request | frankisawesome | hyperledger/besu-docs |
-| 2022-01-17 06:15:00 | frankisawesome | pull_request.create                | frankisawesome | hyperledger/besu-docs |
